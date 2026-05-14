@@ -31,20 +31,6 @@ An IDE (VS Code or Android Studio).
 
 A physical device or emulator (Note: Speech-to-text requires microphone permissions on physical devices).
 
-Installation
-Clone the repository:
-
-Bash
-git clone https://github.com/yourusername/voice-calculator-flutter.git
-cd voice-calculator-flutter
-Install dependencies:
-
-Bash
-flutter pub get
-Run the app:
-
-Bash
-flutter run
 📁 Project Structure
 Plaintext
 lib/
